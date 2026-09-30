@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+data/raw/
+data/processed/
+
+models/*.pth
+models/*.pt
+
+outputs/
+
+.ipynb_checkpoints/
+
+.vscode/
+
+get-pip.py
